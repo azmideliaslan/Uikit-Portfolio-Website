@@ -18,7 +18,7 @@
 }
 .uk-navbar-item.uk-logo {
     width: 200px;
-    height: 100px;
+    height: 50px;
 }
 /* Add a background color to the navbar when it's sticky */
 .uk-navbar-sticky {
@@ -127,6 +127,10 @@
     #contact form {
         margin-top: 0;
     }
+    .uk-navbar-item.uk-logo {
+        width: 150px;
+        height: 25px;
+    }
 }
 
 @media (max-width: 480px) {
@@ -145,5 +149,9 @@
 
     #contact .uk-child-width-1-2@m {
         flex-direction: column;
+    }
+    .uk-navbar-item.uk-logo {
+        width: 100px;
+        height: 20px;
     }
 }
