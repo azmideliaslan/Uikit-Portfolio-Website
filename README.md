@@ -1,4 +1,4 @@
-<img src="/images/FirstScreen.png" width="90%">
+<img src="/images/windowFullsc.png" width="90%">
 
 # Uikit Portfolio Website
 
@@ -32,7 +32,6 @@ For support, send an e-mail to azmideliaslan@gmail.com.
 
   
 ## More Photos
-<img src="/images/mobile.png" width="90%">
-<img src="/images/windowFullsc.png" width="90%">
-<img src="/images/mobile.gif" width="90%">
-<img src="/images/mobileFullsc.png" width="90%">
+<img src="/images/mobile.png" width="30%">
+<img src="/images/mobile.gif" width="30%">
+<img src="/images/mobileFullsc.png" width="30%">
