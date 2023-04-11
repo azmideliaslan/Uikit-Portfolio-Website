@@ -32,6 +32,19 @@ For support, send an e-mail to azmideliaslan@gmail.com.
 
   
 ## More Photos
-<img src="/images/mobile.png" width="30%">
-<img src="/images/mobile.gif" width="30%">
-<img src="/images/mobileFullsc.png" width="30%">
+<div class="image-container">
+  <img src="/images/mobile.png" width="30%">
+  <img src="/images/mobile.gif" width="30%">
+  <img src="/images/mobileFullsc.png" width="30%">
+</div>
+<style>
+.image-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image-container img {
+  margin-right: 10px;
+}
+
+</style>
