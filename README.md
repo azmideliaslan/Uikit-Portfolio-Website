@@ -2,7 +2,9 @@
 
 # Uikit Portfolio Website
 
-How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Uikit
+[Live Demo: ](https://bit.ly/41CqJ9h)
+[Medium Post: ](http://bit.ly/3muE98b)
+[Codepen Link : ](https://bit.ly/3MyteF0)
 
 
 
