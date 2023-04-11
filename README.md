@@ -1,3 +1,5 @@
+<img src="/images/windowFullsc.png" width="90%">
+
 # Uikit Portfolio Website
 
 How to Create a Portfolio Website Using HTML, CSS, JavaScript, and Uikit
@@ -21,7 +23,7 @@ Dowland last version from [here]("https://getuikit.com/docs/installation")
     
 ## Destek
 
-Destek için azmideliaslan@gmail.com adresine e-posta gönderin.
+For support, send an e-mail to azmideliaslan@gmail.com.
 
   
 ## Lisans
@@ -29,3 +31,10 @@ Destek için azmideliaslan@gmail.com adresine e-posta gönderin.
 [MIT](https://choosealicense.com/licenses/mit/)
 
   
+## More Photos
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <img src="/images/mobile.png" width="30%" style="margin-right: 10px; height: 100%; object-fit: contain; vertical-align: top;">
+  <img src="/images/mobile.gif" width="30%" style="margin-right: 10px; height: 100%; object-fit: contain; vertical-align: top;">
+</div>
+
