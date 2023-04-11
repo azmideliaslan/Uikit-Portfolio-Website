@@ -32,7 +32,7 @@ For support, send an e-mail to azmideliaslan@gmail.com.
 
   
 ## More Photos
-<img src="mobile.png" width="90%">
-<img src="windowFullsc.png" width="90%">
-<img src="mobile.gif" width="90%">
-<img src="mobileFullsc.png" width="90%">
+<img src="/images/mobile.png" width="90%">
+<img src="/images/windowFullsc.png" width="90%">
+<img src="/images/mobile.gif" width="90%">
+<img src="/images/mobileFullsc.png" width="90%">
