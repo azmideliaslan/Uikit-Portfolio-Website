@@ -36,6 +36,5 @@ For support, send an e-mail to azmideliaslan@gmail.com.
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <img src="/images/mobile.png" width="30%" style="margin-right: 10px; height: 100%; object-fit: contain; vertical-align: top;">
   <img src="/images/mobile.gif" width="30%" style="margin-right: 10px; height: 100%; object-fit: contain; vertical-align: top;">
-  <img src="/images/mobileFullsc.png" width="30%" style="height: 100%; object-fit: contain; vertical-align: top;">
 </div>
 
