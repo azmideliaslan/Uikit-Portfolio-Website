@@ -1,5 +1,5 @@
 #home {
-    background-image: url('/images/bg.jpg');
+    background-image: url('/Uikit-Portfolio-Website/images/bg.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -113,10 +113,13 @@
     #contact .uk-child-width-1-2@m {
         margin-top: 40px;
     }
-    #about img,h2,p{
-        text-align: center;
+    #about img{
         display: block;
         margin: 0 auto;
+
+    }
+    #about h2,p{
+        text-align: center;
     }
 }
 
