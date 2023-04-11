@@ -1,4 +1,4 @@
-<img src="FirstScreen.png" width="90%">
+<img src="images/FirstScreen.png" width="90%">
 
 # Uikit Portfolio Website
 
