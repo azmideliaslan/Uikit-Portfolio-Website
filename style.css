@@ -113,6 +113,11 @@
     #contact .uk-child-width-1-2@m {
         margin-top: 40px;
     }
+    #about img,h2,p{
+        text-align: center;
+        display: block;
+        margin: 0 auto;
+    }
 }
 
 @media (max-width: 768px) {
@@ -130,6 +135,11 @@
 
     #contact form {
         margin-top: 0;
+    }
+    #about img,h2,p{
+        text-align: center;
+        display: block;
+        margin: 0 auto;
     }
 }
 
@@ -153,5 +163,10 @@
 
     #contact .uk-child-width-1-2@m {
         flex-direction: column;
+    }
+    #about img,h2,p{
+        text-align: center;
+        display: block;
+        margin: 0 auto;
     }
 }
