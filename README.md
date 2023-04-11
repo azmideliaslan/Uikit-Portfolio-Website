@@ -34,8 +34,8 @@ For support, send an e-mail to azmideliaslan@gmail.com.
 ## More Photos
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img src="/images/mobile.png" width="30%" style="margin-right: 10px;">
-  <img src="/images/mobile.gif" width="30%" style="margin-right: 10px;">
-  <img src="/images/mobileFullsc.png" width="30%">
+  <img src="/images/mobile.png" width="30%" style="margin-right: 10px; vertical-align: top;">
+  <img src="/images/mobile.gif" width="30%" style="margin-right: 10px; vertical-align: top;">
+  <img src="/images/mobileFullsc.png" width="30%" style="vertical-align: top;">
 </div>
 
